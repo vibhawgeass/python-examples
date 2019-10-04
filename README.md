@@ -2,7 +2,7 @@
 This repo is for anyone who wants to practice algorithm challenges mostly focusing on Python, JavaScript. 
 Use this repo to help each other learn, improve each others code and share your knowledge.
 
-## Python & JavaScript Solutions This Year!
+## Python & JavaScript Solutions
 - Fork this repo 
 - Add to either Python or JavaScript
 - Add your name to the end of this Readme.md with a link to your GitHub
